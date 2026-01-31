@@ -16,7 +16,7 @@ I'm a 2nd-semester CSE student passionate about combining code with creativity. 
 * **Hardware/IoT:** ESP32, Arduino, Sensors
 * **Learning:** MERN Stack (MongoDB, Express, React, Node.js) , OpenCV
 
-### 🎨 Creative & Freelance
+### 🎨 Creative
 Beyond coding, I am a video editor interested in cinematic aesthetics.I love blending technical precision with visual storytelling.
 
 
