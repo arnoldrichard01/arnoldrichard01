@@ -6,7 +6,7 @@ I'm a 2nd-semester CSE student passionate about combining code with creativity. 
 ---
 
 ### 🚀 What I'm Working On
-* **Fermi Energy Simulator:** A web application built with **Python** and **Streamlit** to calculate the Fermi Energy of metals using the Quantum Free Electron model.
+* **Full-Stack Web Dev:** Mastering Web development both **front-end** and **backend** with good judgement and understanding of the core fundamentals.
 * **Data Structures and Algorithms:** Developing an indepth understanding of systems and codes by learning **DSA** in **Cpp**.
 
 ### 🛠️ Tech Stack & Tools
